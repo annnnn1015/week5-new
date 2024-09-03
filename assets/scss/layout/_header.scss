@@ -1,0 +1,35 @@
+.navbar {
+  width: 296px;
+
+  .navbar-brand {
+    padding-left: 32px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+  }
+
+  .nav-item {
+    padding-left: 32px;
+  }
+
+  .active {
+    padding-left: 28px;
+  }
+
+  .user {
+    margin-bottom: 32px;
+  }
+
+  .photo {
+    width: 40px;
+    height: 40px;
+    margin-left: 32px;
+  }
+
+  .name {
+    font-size: 16px;
+  }
+
+  .email {
+    font-size: 14px;
+  }
+}
